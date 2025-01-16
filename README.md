@@ -16,7 +16,16 @@ This is a personal portfolio website project showcasing my skills, biography, la
 
 ## Folder Structure
 
-project/ │ ├── index.html # Main HTML file ├── style.css # Main CSS file ├── assets/ # Folder for images and other assets │ ├── personal-website/header-bg.png │ ├── personal-website/biography-bg.png │ ├── personal-website/latest-work/work-1.png │ ├── personal-website/latest-work/work-2.jpg │ ├── personal-website/latest-work/work-3.jpg │ └── personal-website/peter.png └── README.md # Project documentation
+project/ │ 
+├── index.html # Main HTML file 
+├── style.css # Main CSS file
+├── assets/ # Folder for images and other assets │ 
+├── personal-website/header-bg.png │ 
+├── personal-website/biography-bg.png │ 
+├── personal-website/latest-work/work-1.png │ 
+├── personal-website/latest-work/work-2.jpg │ 
+├── personal-website/latest-work/work-3.jpg │ 
+└── personal-website/peter.png └── README.md # Project documentation
 
 
 ## Technologies Used
