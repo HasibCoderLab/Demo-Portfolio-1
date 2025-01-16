@@ -25,7 +25,8 @@ project/ │
 ├── personal-website/latest-work/work-1.png │ 
 ├── personal-website/latest-work/work-2.jpg │ 
 ├── personal-website/latest-work/work-3.jpg │ 
-└── personal-website/peter.png └── README.md # Project documentation
+└── personal-website/peter.png 
+└── README.md # Project documentation
 
 
 ## Technologies Used
